@@ -1,3 +1,3 @@
-# AI/ML/Dat Science Portfolio
+# AI/ML/Data Science Portfolio
 
-##Test
+## Test
